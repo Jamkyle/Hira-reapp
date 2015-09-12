@@ -1,0 +1,23 @@
+{
+  "author": "Your Name Here",
+  "name": "Cantique",
+  "repository": "",
+  "description": "",
+  "version": "1.0.0",
+  "main": "./app/app.js",
+  "reapp": "0.8",
+  "scripts": {
+    "test": "",
+    "start": "reapp run"
+  },
+  "dependencies": {
+    "react": "0.13.2",
+    "react-redux": "^2.1.1",
+    "reapp-kit": "^1.2.0",
+    "redux": "^2.0.0"
+  },
+  "devDependencies": {
+    "reapp-ui": "^0.12.54",
+    "redux-devtools": "^2.1.0"
+  }
+}

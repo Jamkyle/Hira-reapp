@@ -1,0 +1,25 @@
+.container{
+  margin: auto;
+  max-width: 500px;
+  text-align: center;
+}
+
+._split{
+  max-width: 230px;
+}
+
+._left{
+  float: left;
+}
+
+._right{
+  float: right;
+}
+
+.clearfix{
+  clear: both;
+}
+
+._blue{
+  color: #20a0ba;
+}
